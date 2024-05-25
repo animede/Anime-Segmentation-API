@@ -13,6 +13,14 @@ source tkh/bin/activate
 cd tkh
 pip install -r requirements.txt
 ```
+
+チェックポイントのダウンロード
+
+https://huggingface.co/UZUKI/webapp1/tree/main
+
+isnetis.ckptをダウンロードしてリポジトリのmaineに移動
+
+
 ## 以下のリポジトリを引き継いています。
 
 https://github.com/SkyTNT/anime-segmentation
